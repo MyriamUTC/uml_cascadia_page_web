@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>Diagramme UML</title>
+</head>
+<body>
+  <h2>Diagramme UML détaillé</h2>
+  <img src="uml.svg" alt="Diagramme UML" style="width:100%;">
+</body>
+</html>
