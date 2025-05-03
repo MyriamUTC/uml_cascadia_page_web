@@ -6,6 +6,6 @@
 </head>
 <body>
   <h2>Diagramme UML détaillé</h2>
-  <img src="uml.svg" alt="Diagramme UML" style="width:100%;">
+  <img src="UML_rendu2.svg" alt="Diagramme UML" style="width:100%;">
 </body>
 </html>
